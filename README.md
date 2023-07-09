@@ -2,9 +2,11 @@
 
 Am i awesoME?
 
-## Network Science; Computational Social Science; Machine Learning
+## Network science; machine learning
 
-TBA
+* [wiki-talk-parser](https://github.com/yfiua/wiki-talk-parser) - Package for parsing Wikipedia user talk networks
+* [user-role-prediction](https://github.com/yfiua/user-role-prediction) - Predicting user roles in a network with transfer learning
+* [TraNet](https://github.com/yfiua/TraNet) - Network user study based on transfer learning
 
 ## Quant
 
@@ -19,6 +21,8 @@ TBA
 * [vim-github-colorscheme](https://github.com/yfiua/vim-github-colorscheme) - Personal colorscheme based on ```vim-github-colorscheme```
 
 ## More
+
+* [All repos](https://github.com/yfiua?tab=repositories)
 
 <!--
 **yfiua/yfiua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
