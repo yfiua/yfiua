@@ -2,6 +2,10 @@
 
 Am i awesoME?
 
+## Network Science; Computational Social Science; Machine Learning
+
+TBA
+
 ## Quant
 
 * [quant-machine-sp500](https://github.com/yfiua/quant-machine-sp500) - S&P500 trade machine, [demo](https://yfiua.github.io/quant-machine-sp500/index-en.html)
