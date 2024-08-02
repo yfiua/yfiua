@@ -7,6 +7,7 @@ Am i awesoME?
 * [wiki-talk-parser](https://github.com/yfiua/wiki-talk-parser) - Package for parsing Wikipedia user talk networks
 * [user-role-prediction](https://github.com/yfiua/user-role-prediction) - Predicting user roles in a network with transfer learning
 * [TraNet](https://github.com/yfiua/TraNet) - Network user study based on transfer learning
+* [Tutorial on node classification in networks](https://github.com/yfiua/tutorial-node-classification)
 
 ## Quant
 
