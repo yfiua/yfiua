@@ -14,8 +14,8 @@ Am i awesoME?
 * [quant-machine-sp500](https://github.com/yfiua/quant-machine-sp500) - S&P500 trade machine, [demo](https://yfiua.github.io/quant-machine-sp500/index-en.html)
 * [nshare-calc](https://github.com/yfiua/nshare-calc) - Python package for calculating optimal number of shares
 * [index-constituents](https://github.com/yfiua/index-constituents) - Get the current and historical constituents of popular stock indices
-* 🏆 [Quantiacs Q20 (NASDAQ100)](https://quantiacs.com/statistic/15136749) - Contest winning strategy 🏆
-
+* 🏆 [Quantiacs Q20 (NASDAQ100)](https://quantiacs.com/statistic/15136749) - Contest-proven strategy for NASDAQ-100 🏆
+-
 ## Vim
 
 * [vimrc](https://github.com/yfiua/vimrc) - Personal ```vimrc```
